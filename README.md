@@ -8,7 +8,7 @@ The is a C# Console-Mode Project.  Open with  Visual Studio 2022 and above to co
 
 ## Description:
 
-  A Binary Tree class to Add, Remove, Build, Clear and Rebuild.
+  A Balanced Binary Tree class to Add, Remove, Build, Clear and Rebuild.
 
 ## Unit Tests
 
