@@ -16,7 +16,7 @@ The is a C# Console-Mode Project.  Open with  Visual Studio 2022 and above to co
 
 ## Credits
 
-"Understanding AVL Trees in C#: A Guide to Self-Balancing Binary Search Trees", Denis Kondratev, April 3, 2023. 
+1. Denis Kondratev, "Understanding AVL Trees in C#: A Guide to Self-Balancing Binary Search Trees", April 2023 
 
 https://dzone.com/articles/understanding-avl-trees-in-c-a-guide-to-self-balan
 
