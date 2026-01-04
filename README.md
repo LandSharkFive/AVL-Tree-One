@@ -1,25 +1,19 @@
-# AVL Binary Tree
+# AVL Self-Balancing Binary Tree (C#)
 
-This project contains a AVL binary tree demonstration.   The application inserts random numbers into a binary tree and prints them.
+A high-performance implementation of an AVL Tree, ensuring $O(\log n)$ search, insertion, and deletion times through automatic self-balancing.
 
-## Install and Build
+## Key Features
+* **Auto-Balancing:** Uses rotations to maintain a height-balanced structure.
+* **Duplicates:** Full support for duplicate value insertion.
+* **Comprehensive API:** Methods for Add, Remove, Build, Clear, and Rebuild.
+* **Validated:** Includes a full suite of Unit Tests to ensure structural integrity.
 
-The is a C# Console-Mode Project.  Open with  Visual Studio 2022 and above to compile. 
+## Build Requirements
+* Visual Studio 2022+
+* .NET 6.0 / 8.0
 
-## Description:
-
-  A Balanced Binary Tree class to Add, Remove, Build, Clear and Rebuild.  Supports duplicate values.
-
-## Unit Tests
-
-  Unit Tests are included.
+## Educational Use
+The console application demonstrates the tree's behavior by inserting random integers and visualizing the resulting balanced structure in the terminal.
 
 ## Credits
-
-1. Denis Kondratev, "Understanding AVL Trees in C#: A Guide to Self-Balancing Binary Search Trees", April 2023 
-
-https://dzone.com/articles/understanding-avl-trees-in-c-a-guide-to-self-balan
-
-
-
-  
+Derived from research and implementation guides by Denis Kondratev.
